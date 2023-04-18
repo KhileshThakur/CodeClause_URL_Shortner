@@ -1,0 +1,21 @@
+.custom-bg{
+    background: #A555EC;
+}
+.container {
+    margin-top: 15%;
+}
+.btn-custom{
+    background: #A555EC;
+    color: #FFF;
+
+}
+.btn-custom:hover{
+    background: #A555EC;
+    opacity: 0.8;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        margin-top: 40%;
+    }    
+}
